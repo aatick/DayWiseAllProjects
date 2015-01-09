@@ -1,0 +1,9 @@
+D:\AATICK\19-12-2014\PersonApp\PersonApp\bin\Debug\PersonApp.pdb
+D:\AATICK\19-12-2014\PersonApp\PersonApp\obj\Debug\PersonApp.pdb
+D:\AATICK\19-12-2014\PersonApp\PersonApp\bin\Debug\PersonApp.exe
+D:\AATICK\19-12-2014\PersonApp\PersonApp\obj\Debug\PersonApp.exe
+H:\BCC\19-12-2014\PersonApp\PersonApp\obj\Debug\PersonApp.exe
+H:\BCC\19-12-2014\PersonApp\PersonApp\obj\Debug\PersonApp.pdb
+H:\BCC\19-12-2014\PersonApp\PersonApp\bin\Debug\PersonApp.exe
+H:\BCC\19-12-2014\PersonApp\PersonApp\bin\Debug\PersonApp.pdb
+H:\BCC\19-12-2014\PersonApp\PersonApp\obj\Debug\PersonApp.csprojResolveAssemblyReference.cache

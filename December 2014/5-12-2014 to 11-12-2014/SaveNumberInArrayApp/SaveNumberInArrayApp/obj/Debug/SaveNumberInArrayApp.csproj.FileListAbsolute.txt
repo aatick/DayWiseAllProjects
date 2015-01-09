@@ -1,0 +1,8 @@
+C:\Users\FTFL\Desktop\SaveNumberInArrayApp\SaveNumberInArrayApp\bin\Debug\SaveNumberInArrayApp.exe.config
+C:\Users\FTFL\Desktop\SaveNumberInArrayApp\SaveNumberInArrayApp\bin\Debug\SaveNumberInArrayApp.exe
+C:\Users\FTFL\Desktop\SaveNumberInArrayApp\SaveNumberInArrayApp\bin\Debug\SaveNumberInArrayApp.pdb
+C:\Users\FTFL\Desktop\SaveNumberInArrayApp\SaveNumberInArrayApp\obj\Debug\SaveNumberInArrayApp.SaveNumberApp.resources
+C:\Users\FTFL\Desktop\SaveNumberInArrayApp\SaveNumberInArrayApp\obj\Debug\SaveNumberInArrayApp.Properties.Resources.resources
+C:\Users\FTFL\Desktop\SaveNumberInArrayApp\SaveNumberInArrayApp\obj\Debug\SaveNumberInArrayApp.csproj.GenerateResource.Cache
+C:\Users\FTFL\Desktop\SaveNumberInArrayApp\SaveNumberInArrayApp\obj\Debug\SaveNumberInArrayApp.exe
+C:\Users\FTFL\Desktop\SaveNumberInArrayApp\SaveNumberInArrayApp\obj\Debug\SaveNumberInArrayApp.pdb

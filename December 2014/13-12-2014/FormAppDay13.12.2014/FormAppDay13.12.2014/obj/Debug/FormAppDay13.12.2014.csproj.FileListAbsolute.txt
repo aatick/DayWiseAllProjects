@@ -1,0 +1,9 @@
+D:\AATICK\FormAppDay13.12.2014\FormAppDay13.12.2014\bin\Debug\FormAppDay13.12.2014.exe.config
+D:\AATICK\FormAppDay13.12.2014\FormAppDay13.12.2014\bin\Debug\FormAppDay13.12.2014.exe
+D:\AATICK\FormAppDay13.12.2014\FormAppDay13.12.2014\bin\Debug\FormAppDay13.12.2014.pdb
+D:\AATICK\FormAppDay13.12.2014\FormAppDay13.12.2014\obj\Debug\FormAppDay13.12.2014.csprojResolveAssemblyReference.cache
+D:\AATICK\FormAppDay13.12.2014\FormAppDay13.12.2014\obj\Debug\FormAppDay13._12._2014.Form1.resources
+D:\AATICK\FormAppDay13.12.2014\FormAppDay13.12.2014\obj\Debug\FormAppDay13._12._2014.Properties.Resources.resources
+D:\AATICK\FormAppDay13.12.2014\FormAppDay13.12.2014\obj\Debug\FormAppDay13.12.2014.csproj.GenerateResource.Cache
+D:\AATICK\FormAppDay13.12.2014\FormAppDay13.12.2014\obj\Debug\FormAppDay13.12.2014.exe
+D:\AATICK\FormAppDay13.12.2014\FormAppDay13.12.2014\obj\Debug\FormAppDay13.12.2014.pdb

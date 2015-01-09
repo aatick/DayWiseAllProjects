@@ -1,0 +1,6 @@
+D:\AATICK\19-12-2014\ListWithUserDefinedType\ListWithUserDefinedType\bin\Debug\ListWithUserDefinedType.exe.config
+D:\AATICK\19-12-2014\ListWithUserDefinedType\ListWithUserDefinedType\bin\Debug\ListWithUserDefinedType.exe
+D:\AATICK\19-12-2014\ListWithUserDefinedType\ListWithUserDefinedType\bin\Debug\ListWithUserDefinedType.pdb
+D:\AATICK\19-12-2014\ListWithUserDefinedType\ListWithUserDefinedType\obj\Debug\ListWithUserDefinedType.csprojResolveAssemblyReference.cache
+D:\AATICK\19-12-2014\ListWithUserDefinedType\ListWithUserDefinedType\obj\Debug\ListWithUserDefinedType.exe
+D:\AATICK\19-12-2014\ListWithUserDefinedType\ListWithUserDefinedType\obj\Debug\ListWithUserDefinedType.pdb

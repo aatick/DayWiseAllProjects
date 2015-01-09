@@ -1,0 +1,15 @@
+E:\20-12-2014\StudentInfoApp\StudentInfoApp\bin\Debug\StudentInfoApp.exe.config
+E:\20-12-2014\StudentInfoApp\StudentInfoApp\bin\Debug\StudentInfoApp.exe
+E:\20-12-2014\StudentInfoApp\StudentInfoApp\bin\Debug\StudentInfoApp.pdb
+E:\20-12-2014\StudentInfoApp\StudentInfoApp\obj\Debug\StudentInfoApp.csprojResolveAssemblyReference.cache
+E:\20-12-2014\StudentInfoApp\StudentInfoApp\obj\Debug\StudentInfoApp.Properties.Resources.resources
+E:\20-12-2014\StudentInfoApp\StudentInfoApp\obj\Debug\StudentInfoApp.csproj.GenerateResource.Cache
+E:\20-12-2014\StudentInfoApp\StudentInfoApp\obj\Debug\StudentInfoApp.exe
+E:\20-12-2014\StudentInfoApp\StudentInfoApp\obj\Debug\StudentInfoApp.pdb
+E:\20-12-2014\StudentInfoApp\StudentInfoApp\obj\Debug\StudentInfoApp.MenuExampleUI.resources
+E:\20-12-2014\StudentInfoApp\StudentInfoApp\obj\Debug\StudentInfoApp.StudentInfoUI.resources
+E:\20-12-2014\StudentInfoApp\StudentInfoApp\obj\Debug\StudentInfoApp.ViewUI.resources
+E:\20-12-2014\StudentInfoApp\StudentInfoApp\obj\Debug\StudentInfoApp.EditStudentInfo.resources
+H:\20-12-2014\StudentInfoApp\StudentInfoApp\bin\Debug\StudentInfoApp.exe.config
+H:\20-12-2014\StudentInfoApp\StudentInfoApp\obj\Debug\StudentInfoApp.exe
+H:\20-12-2014\StudentInfoApp\StudentInfoApp\obj\Debug\StudentInfoApp.pdb

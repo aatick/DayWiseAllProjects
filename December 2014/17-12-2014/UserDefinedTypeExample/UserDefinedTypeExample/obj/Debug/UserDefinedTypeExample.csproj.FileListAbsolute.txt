@@ -1,0 +1,9 @@
+F:\AATICK\UserDefinedTypeExample\UserDefinedTypeExample\bin\Debug\UserDefinedTypeExample.exe.config
+F:\AATICK\UserDefinedTypeExample\UserDefinedTypeExample\bin\Debug\UserDefinedTypeExample.exe
+F:\AATICK\UserDefinedTypeExample\UserDefinedTypeExample\bin\Debug\UserDefinedTypeExample.pdb
+F:\AATICK\UserDefinedTypeExample\UserDefinedTypeExample\obj\Debug\UserDefinedTypeExample.csprojResolveAssemblyReference.cache
+F:\AATICK\UserDefinedTypeExample\UserDefinedTypeExample\obj\Debug\EmployeeInformation.EmployeeInformationUI.resources
+F:\AATICK\UserDefinedTypeExample\UserDefinedTypeExample\obj\Debug\UserDefinedTypeExample.Properties.Resources.resources
+F:\AATICK\UserDefinedTypeExample\UserDefinedTypeExample\obj\Debug\UserDefinedTypeExample.csproj.GenerateResource.Cache
+F:\AATICK\UserDefinedTypeExample\UserDefinedTypeExample\obj\Debug\UserDefinedTypeExample.exe
+F:\AATICK\UserDefinedTypeExample\UserDefinedTypeExample\obj\Debug\UserDefinedTypeExample.pdb

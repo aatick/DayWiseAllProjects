@@ -1,0 +1,10 @@
+E:\FTFL\BCC\21-12-2014\CirclePropertiesApp\CirclePropertiesApp\bin\Debug\CirclePropertiesApp.exe.config
+E:\FTFL\BCC\21-12-2014\CirclePropertiesApp\CirclePropertiesApp\bin\Debug\CirclePropertiesApp.exe
+E:\FTFL\BCC\21-12-2014\CirclePropertiesApp\CirclePropertiesApp\bin\Debug\CirclePropertiesApp.pdb
+E:\FTFL\BCC\21-12-2014\CirclePropertiesApp\CirclePropertiesApp\obj\Debug\CirclePropertiesApp.CirclepropertiesUI.resources
+E:\FTFL\BCC\21-12-2014\CirclePropertiesApp\CirclePropertiesApp\obj\Debug\CirclePropertiesApp.csproj.GenerateResource.Cache
+E:\FTFL\BCC\21-12-2014\CirclePropertiesApp\CirclePropertiesApp\obj\Debug\CirclePropertiesApp.exe
+E:\FTFL\BCC\21-12-2014\CirclePropertiesApp\CirclePropertiesApp\obj\Debug\CirclePropertiesApp.pdb
+E:\AATICK\CirclePropertiesApp\CirclePropertiesApp\bin\Debug\CirclePropertiesApp.exe.config
+E:\AATICK\CirclePropertiesApp\CirclePropertiesApp\obj\Debug\CirclePropertiesApp.exe
+E:\AATICK\CirclePropertiesApp\CirclePropertiesApp\obj\Debug\CirclePropertiesApp.pdb

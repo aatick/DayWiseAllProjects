@@ -1,0 +1,9 @@
+D:\AATICK\ReadWriteFileApp\ReadWriteFileApp\bin\Debug\ReadWriteFileApp.exe.config
+D:\AATICK\ReadWriteFileApp\ReadWriteFileApp\bin\Debug\ReadWriteFileApp.exe
+D:\AATICK\ReadWriteFileApp\ReadWriteFileApp\bin\Debug\ReadWriteFileApp.pdb
+D:\AATICK\ReadWriteFileApp\ReadWriteFileApp\obj\Debug\ReadWriteFileApp.csprojResolveAssemblyReference.cache
+D:\AATICK\ReadWriteFileApp\ReadWriteFileApp\obj\Debug\ReadWriteFileApp.Form1.resources
+D:\AATICK\ReadWriteFileApp\ReadWriteFileApp\obj\Debug\ReadWriteFileApp.Properties.Resources.resources
+D:\AATICK\ReadWriteFileApp\ReadWriteFileApp\obj\Debug\ReadWriteFileApp.csproj.GenerateResource.Cache
+D:\AATICK\ReadWriteFileApp\ReadWriteFileApp\obj\Debug\ReadWriteFileApp.exe
+D:\AATICK\ReadWriteFileApp\ReadWriteFileApp\obj\Debug\ReadWriteFileApp.pdb

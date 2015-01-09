@@ -1,0 +1,11 @@
+﻿ul#menu li{
+    display: inline;
+}
+ul#menu{
+    list-style-type: none;
+}
+#saveButton{
+    margin-left: 50px;
+}
+
+

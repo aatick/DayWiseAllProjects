@@ -1,0 +1,9 @@
+D:\AATICK\DictionaryApp\DictionaryApp\bin\Debug\DictionaryApp.exe.config
+D:\AATICK\DictionaryApp\DictionaryApp\bin\Debug\DictionaryApp.exe
+D:\AATICK\DictionaryApp\DictionaryApp\bin\Debug\DictionaryApp.pdb
+D:\AATICK\DictionaryApp\DictionaryApp\obj\Debug\DictionaryApp.csprojResolveAssemblyReference.cache
+D:\AATICK\DictionaryApp\DictionaryApp\obj\Debug\DictionaryApp.Properties.Resources.resources
+D:\AATICK\DictionaryApp\DictionaryApp\obj\Debug\DictionaryApp.csproj.GenerateResource.Cache
+D:\AATICK\DictionaryApp\DictionaryApp\obj\Debug\DictionaryApp.exe
+D:\AATICK\DictionaryApp\DictionaryApp\obj\Debug\DictionaryApp.pdb
+D:\AATICK\DictionaryApp\DictionaryApp\obj\Debug\DictionaryApp.StoresInfoUi.resources

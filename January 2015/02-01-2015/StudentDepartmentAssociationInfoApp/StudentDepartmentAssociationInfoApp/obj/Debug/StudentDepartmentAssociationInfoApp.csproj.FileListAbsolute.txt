@@ -1,0 +1,9 @@
+E:\FTFL\BCC\January\02-01-2015\StudentDepartmentAssociationInfoApp\StudentDepartmentAssociationInfoApp\bin\Debug\StudentDepartmentAssociationInfoApp.exe.config
+E:\FTFL\BCC\January\02-01-2015\StudentDepartmentAssociationInfoApp\StudentDepartmentAssociationInfoApp\bin\Debug\StudentDepartmentAssociationInfoApp.exe
+E:\FTFL\BCC\January\02-01-2015\StudentDepartmentAssociationInfoApp\StudentDepartmentAssociationInfoApp\bin\Debug\StudentDepartmentAssociationInfoApp.pdb
+E:\FTFL\BCC\January\02-01-2015\StudentDepartmentAssociationInfoApp\StudentDepartmentAssociationInfoApp\obj\Debug\StudentDepartmentAssociationInfoApp.csprojResolveAssemblyReference.cache
+E:\FTFL\BCC\January\02-01-2015\StudentDepartmentAssociationInfoApp\StudentDepartmentAssociationInfoApp\obj\Debug\StudentDepartmentAssociationInfoApp.StudentDepartmentInfoUI.resources
+E:\FTFL\BCC\January\02-01-2015\StudentDepartmentAssociationInfoApp\StudentDepartmentAssociationInfoApp\obj\Debug\StudentDepartmentAssociationInfoApp.Properties.Resources.resources
+E:\FTFL\BCC\January\02-01-2015\StudentDepartmentAssociationInfoApp\StudentDepartmentAssociationInfoApp\obj\Debug\StudentDepartmentAssociationInfoApp.csproj.GenerateResource.Cache
+E:\FTFL\BCC\January\02-01-2015\StudentDepartmentAssociationInfoApp\StudentDepartmentAssociationInfoApp\obj\Debug\StudentDepartmentAssociationInfoApp.exe
+E:\FTFL\BCC\January\02-01-2015\StudentDepartmentAssociationInfoApp\StudentDepartmentAssociationInfoApp\obj\Debug\StudentDepartmentAssociationInfoApp.pdb

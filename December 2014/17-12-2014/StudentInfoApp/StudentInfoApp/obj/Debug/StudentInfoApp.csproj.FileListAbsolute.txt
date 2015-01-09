@@ -1,0 +1,9 @@
+F:\AATICK\StudentInfoApp\StudentInfoApp\bin\Debug\StudentInfoApp.exe.config
+F:\AATICK\StudentInfoApp\StudentInfoApp\bin\Debug\StudentInfoApp.exe
+F:\AATICK\StudentInfoApp\StudentInfoApp\bin\Debug\StudentInfoApp.pdb
+F:\AATICK\StudentInfoApp\StudentInfoApp\obj\Debug\StudentInfoApp.csprojResolveAssemblyReference.cache
+F:\AATICK\StudentInfoApp\StudentInfoApp\obj\Debug\StudentInfoApp.StudentInfoUI.resources
+F:\AATICK\StudentInfoApp\StudentInfoApp\obj\Debug\StudentInfoApp.Properties.Resources.resources
+F:\AATICK\StudentInfoApp\StudentInfoApp\obj\Debug\StudentInfoApp.csproj.GenerateResource.Cache
+F:\AATICK\StudentInfoApp\StudentInfoApp\obj\Debug\StudentInfoApp.exe
+F:\AATICK\StudentInfoApp\StudentInfoApp\obj\Debug\StudentInfoApp.pdb

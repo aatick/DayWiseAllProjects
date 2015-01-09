@@ -1,0 +1,9 @@
+D:\AATICK\19-12-2014\QueueManagementApp\QueueManagementApp\bin\Debug\QueueManagementApp.exe.config
+D:\AATICK\19-12-2014\QueueManagementApp\QueueManagementApp\bin\Debug\QueueManagementApp.exe
+D:\AATICK\19-12-2014\QueueManagementApp\QueueManagementApp\bin\Debug\QueueManagementApp.pdb
+D:\AATICK\19-12-2014\QueueManagementApp\QueueManagementApp\obj\Debug\QueueManagementApp.csprojResolveAssemblyReference.cache
+D:\AATICK\19-12-2014\QueueManagementApp\QueueManagementApp\obj\Debug\QueueManagementApp.QueueMgmtUI.resources
+D:\AATICK\19-12-2014\QueueManagementApp\QueueManagementApp\obj\Debug\QueueManagementApp.Properties.Resources.resources
+D:\AATICK\19-12-2014\QueueManagementApp\QueueManagementApp\obj\Debug\QueueManagementApp.csproj.GenerateResource.Cache
+D:\AATICK\19-12-2014\QueueManagementApp\QueueManagementApp\obj\Debug\QueueManagementApp.exe
+D:\AATICK\19-12-2014\QueueManagementApp\QueueManagementApp\obj\Debug\QueueManagementApp.pdb

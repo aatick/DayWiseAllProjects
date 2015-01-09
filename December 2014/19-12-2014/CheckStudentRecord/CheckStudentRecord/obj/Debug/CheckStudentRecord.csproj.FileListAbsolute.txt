@@ -1,0 +1,8 @@
+D:\AATICK\19-12-2014\CheckStudentRecord\CheckStudentRecord\bin\Debug\CheckStudentRecord.exe.config
+D:\AATICK\19-12-2014\CheckStudentRecord\CheckStudentRecord\bin\Debug\CheckStudentRecord.exe
+D:\AATICK\19-12-2014\CheckStudentRecord\CheckStudentRecord\bin\Debug\CheckStudentRecord.pdb
+D:\AATICK\19-12-2014\CheckStudentRecord\CheckStudentRecord\obj\Debug\CheckStudentRecord.Properties.Resources.resources
+D:\AATICK\19-12-2014\CheckStudentRecord\CheckStudentRecord\obj\Debug\SaveStudentInfoUsingUserDefinedType.StudentInfoUI.resources
+D:\AATICK\19-12-2014\CheckStudentRecord\CheckStudentRecord\obj\Debug\CheckStudentRecord.csproj.GenerateResource.Cache
+D:\AATICK\19-12-2014\CheckStudentRecord\CheckStudentRecord\obj\Debug\CheckStudentRecord.exe
+D:\AATICK\19-12-2014\CheckStudentRecord\CheckStudentRecord\obj\Debug\CheckStudentRecord.pdb

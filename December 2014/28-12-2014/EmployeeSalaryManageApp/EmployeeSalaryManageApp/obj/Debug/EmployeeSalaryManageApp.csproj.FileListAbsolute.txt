@@ -1,0 +1,9 @@
+E:\AATICK\28-12-2014\EmployeeSalaryManageApp\EmployeeSalaryManageApp\bin\Debug\EmployeeSalaryManageApp.exe.config
+E:\AATICK\28-12-2014\EmployeeSalaryManageApp\EmployeeSalaryManageApp\bin\Debug\EmployeeSalaryManageApp.exe
+E:\AATICK\28-12-2014\EmployeeSalaryManageApp\EmployeeSalaryManageApp\bin\Debug\EmployeeSalaryManageApp.pdb
+E:\AATICK\28-12-2014\EmployeeSalaryManageApp\EmployeeSalaryManageApp\obj\Debug\EmployeeSalaryManageApp.csprojResolveAssemblyReference.cache
+E:\AATICK\28-12-2014\EmployeeSalaryManageApp\EmployeeSalaryManageApp\obj\Debug\EmployeeSalaryManageApp.EmployeeSalaryManageAppUI.resources
+E:\AATICK\28-12-2014\EmployeeSalaryManageApp\EmployeeSalaryManageApp\obj\Debug\EmployeeSalaryManageApp.Properties.Resources.resources
+E:\AATICK\28-12-2014\EmployeeSalaryManageApp\EmployeeSalaryManageApp\obj\Debug\EmployeeSalaryManageApp.csproj.GenerateResource.Cache
+E:\AATICK\28-12-2014\EmployeeSalaryManageApp\EmployeeSalaryManageApp\obj\Debug\EmployeeSalaryManageApp.exe
+E:\AATICK\28-12-2014\EmployeeSalaryManageApp\EmployeeSalaryManageApp\obj\Debug\EmployeeSalaryManageApp.pdb

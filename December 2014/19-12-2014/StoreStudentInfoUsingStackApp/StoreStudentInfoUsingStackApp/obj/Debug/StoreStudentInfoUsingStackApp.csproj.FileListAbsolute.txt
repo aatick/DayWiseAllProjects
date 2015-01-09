@@ -1,0 +1,9 @@
+D:\AATICK\19-12-2014\StoreStudentInfoUsingStackApp\StoreStudentInfoUsingStackApp\bin\Debug\StoreStudentInfoUsingStackApp.exe.config
+D:\AATICK\19-12-2014\StoreStudentInfoUsingStackApp\StoreStudentInfoUsingStackApp\obj\Debug\StoreStudentInfoUsingStackApp.csprojResolveAssemblyReference.cache
+D:\AATICK\19-12-2014\StoreStudentInfoUsingStackApp\StoreStudentInfoUsingStackApp\obj\Debug\StoreStudentInfoUsingStackApp.StudentInfoUI.resources
+D:\AATICK\19-12-2014\StoreStudentInfoUsingStackApp\StoreStudentInfoUsingStackApp\obj\Debug\StoreStudentInfoUsingStackApp.Properties.Resources.resources
+D:\AATICK\19-12-2014\StoreStudentInfoUsingStackApp\StoreStudentInfoUsingStackApp\obj\Debug\StoreStudentInfoUsingStackApp.csproj.GenerateResource.Cache
+D:\AATICK\19-12-2014\StoreStudentInfoUsingStackApp\StoreStudentInfoUsingStackApp\bin\Debug\StoreStudentInfoUsingStackApp.exe
+D:\AATICK\19-12-2014\StoreStudentInfoUsingStackApp\StoreStudentInfoUsingStackApp\bin\Debug\StoreStudentInfoUsingStackApp.pdb
+D:\AATICK\19-12-2014\StoreStudentInfoUsingStackApp\StoreStudentInfoUsingStackApp\obj\Debug\StoreStudentInfoUsingStackApp.exe
+D:\AATICK\19-12-2014\StoreStudentInfoUsingStackApp\StoreStudentInfoUsingStackApp\obj\Debug\StoreStudentInfoUsingStackApp.pdb

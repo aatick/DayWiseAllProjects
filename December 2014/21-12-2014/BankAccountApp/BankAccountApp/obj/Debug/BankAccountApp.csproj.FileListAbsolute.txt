@@ -1,0 +1,8 @@
+C:\Users\bcc\Desktop\21-12-2014\BankAccountApp\BankAccountApp\bin\Debug\BankAccountApp.exe.config
+C:\Users\bcc\Desktop\21-12-2014\BankAccountApp\BankAccountApp\bin\Debug\BankAccountApp.exe
+C:\Users\bcc\Desktop\21-12-2014\BankAccountApp\BankAccountApp\bin\Debug\BankAccountApp.pdb
+C:\Users\bcc\Desktop\21-12-2014\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.AccountInfoUI.resources
+C:\Users\bcc\Desktop\21-12-2014\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.Properties.Resources.resources
+C:\Users\bcc\Desktop\21-12-2014\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.csproj.GenerateResource.Cache
+C:\Users\bcc\Desktop\21-12-2014\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.exe
+C:\Users\bcc\Desktop\21-12-2014\BankAccountApp\BankAccountApp\obj\Debug\BankAccountApp.pdb

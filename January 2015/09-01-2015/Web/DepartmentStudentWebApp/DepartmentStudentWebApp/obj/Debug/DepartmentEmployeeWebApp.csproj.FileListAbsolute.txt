@@ -1,0 +1,8 @@
+E:\AATICK\09-01-2014\Web\DepartmentStudentWebApp\DepartmentStudentWebApp\bin\DepartmentEmployeeWebApp.dll.config
+E:\AATICK\09-01-2014\Web\DepartmentStudentWebApp\DepartmentStudentWebApp\bin\DepartmentEmployeeWebApp.dll
+E:\AATICK\09-01-2014\Web\DepartmentStudentWebApp\DepartmentStudentWebApp\bin\DepartmentEmployeeWebApp.pdb
+E:\AATICK\09-01-2014\Web\DepartmentStudentWebApp\DepartmentStudentWebApp\bin\EntityFramework.dll
+E:\AATICK\09-01-2014\Web\DepartmentStudentWebApp\DepartmentStudentWebApp\bin\EntityFramework.xml
+E:\AATICK\09-01-2014\Web\DepartmentStudentWebApp\DepartmentStudentWebApp\obj\Debug\DepartmentEmployeeWebApp.csprojResolveAssemblyReference.cache
+E:\AATICK\09-01-2014\Web\DepartmentStudentWebApp\DepartmentStudentWebApp\obj\Debug\DepartmentEmployeeWebApp.dll
+E:\AATICK\09-01-2014\Web\DepartmentStudentWebApp\DepartmentStudentWebApp\obj\Debug\DepartmentEmployeeWebApp.pdb

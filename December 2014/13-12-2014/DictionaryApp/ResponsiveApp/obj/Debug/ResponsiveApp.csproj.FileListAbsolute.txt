@@ -1,0 +1,8 @@
+D:\AATICK\DictionaryApp\ResponsiveApp\bin\Debug\ResponsiveApp.exe.config
+D:\AATICK\DictionaryApp\ResponsiveApp\bin\Debug\ResponsiveApp.exe
+D:\AATICK\DictionaryApp\ResponsiveApp\bin\Debug\ResponsiveApp.pdb
+D:\AATICK\DictionaryApp\ResponsiveApp\obj\Debug\ResponsiveApp.Form1.resources
+D:\AATICK\DictionaryApp\ResponsiveApp\obj\Debug\ResponsiveApp.Properties.Resources.resources
+D:\AATICK\DictionaryApp\ResponsiveApp\obj\Debug\ResponsiveApp.csproj.GenerateResource.Cache
+D:\AATICK\DictionaryApp\ResponsiveApp\obj\Debug\ResponsiveApp.exe
+D:\AATICK\DictionaryApp\ResponsiveApp\obj\Debug\ResponsiveApp.pdb
